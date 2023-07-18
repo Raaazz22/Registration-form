@@ -1,0 +1,132 @@
+body{
+	background-color:#1662a1;
+}
+
+#main{
+	height:1050px;
+	width:700px;
+	margin:50px auto;
+}
+#main fieldset{
+	border:1px dashed white;
+	text-align:center;
+	font-size:30px;
+	color:white;
+}
+#row1 input{
+	height:40px;
+	width:250px;
+	margin-left:50px;
+	float:left;
+	font-size:20px;
+	background-color:lightgrey;
+	box-shadow:2px 2px 5px white;
+	
+}
+
+#row2 input{
+	height:40px;
+	width:550px;
+	font-size:20px;
+	margin:15px 50px 0px 50px;
+	background-color:lightgrey;
+	box-shadow:2px 2px 5px white;	
+}
+#row3 input{
+	height:40px;
+	width:550px;
+	font-size:20px;
+	margin:15px 50px 0px 50px;
+	background-color:lightgrey;
+	box-shadow:2px 2px 5px white;	
+}
+#row4 select{
+	height:40px;
+	width:550px;
+	font-size:20px;
+	margin:15px 50px 0px 50px;
+	background-color:lightgrey;
+	box-shadow:2px 2px 5px white;	
+}
+#row4 select option{
+	font-size:20px;
+	background-color:lightgrey;	
+}
+#row5 input{
+	height:20px;
+	width:50px;
+	margin-top:15px;
+	display:inline-block;
+	font-size:10px;
+	background-color:lightgrey;
+	
+}
+#row6 input{
+	height:40px;
+	width:550px;
+	font-size:20px;
+	margin:15px 50px 0px 50px;
+	background-color:lightgrey;
+	box-shadow:2px 2px 5px white;	
+}
+#row7 input{
+	height:40px;
+	width:550px;
+	font-size:20px;
+	margin:15px 50px 0px 50px;
+	background-color:lightgrey;
+	box-shadow:2px 2px 5px white;	
+}
+#row8 input{
+	height:40px;
+	width:550px;
+	font-size:20px;
+	margin:15px 50px 0px 50px;
+	background-color:lightgrey;
+	box-shadow:2px 2px 5px white;	
+}
+#row9 input{
+	height:40px;
+	width:550px;
+	font-size:20px;
+	margin:15px 50px 0px 50px;
+	background-color:lightgrey;
+	box-shadow:2px 2px 5px white;	
+}
+
+#row10 input{
+	height:40px;
+	width:250;
+	margin-left:50px;
+	margin-top:15px;
+	float:left;
+	font-size:20px;
+	background-color:lightgrey;
+	box-shadow:2px 2px 5px white;
+	
+}
+#row11 input{
+	height:25px;
+	width:25;
+	margin-left:50px;
+	float:left;
+	margin-top:15px;
+	font-size:20px;
+	box-shadow:2px 2px 5px white;
+	
+}
+#row11 p{
+	margin-left:50px;
+	float:left;
+	margin-top:15px;
+	font-size:20px;
+	
+}
+#row12 input{
+	height:40px;
+	width:250px;
+	font-size:20px;
+	margin:15px 50px 0px 50px;
+	background-color:Green;
+    color:white;
+}
